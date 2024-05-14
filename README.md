@@ -1,4 +1,4 @@
-### Week 8: Setting Up MongoDB with Persistent Storage
+## Week 8: Setting Up MongoDB with Persistent Storage
 
 1. Created a PV to allocate storage:
    - Persistent Volumes (PV) and Persistent Volume Claims (PVC) were created to allocate and bind the storage.
@@ -10,7 +10,7 @@
 3. Deployed MongoDB as a StatefulSet:
    - Ensured each pod had a unique identity and persistent storage.
 
-### Week 9: Configuring MongoDB Replica Set
+## Week 9: Configuring MongoDB Replica Set
 
 1. Initialized a MongoDB replica set:
    - Configured one primary pod and two secondary pods to ensure data replication and high availability.
