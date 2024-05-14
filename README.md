@@ -12,7 +12,7 @@
 
 ## Week 9: Configuring MongoDB Replica Set
 
-1. Initialized a MongoDB replica:
+1. Set a MongoDB replica:
    - Configured one primary pod and two secondary pods to ensure data replication
 
 2. Verified the setup by testing data replication:
