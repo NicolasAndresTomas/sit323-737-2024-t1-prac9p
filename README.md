@@ -1,7 +1,7 @@
 ## Week 8: Setting Up MongoDB with Persistent Storage
 
-1. Created a PV and PVC:
-   - Created Persistent Volumes (PV) and Persistent Volume Claims (PVC) to allocate and bind storage
+1. Created a Persistent Volumes (PV) and Persistent Volume Claims (PVC):
+   - Created PV and PVC to allocate and bind storage
 
 2. Created a ConfigMap and a Secret:
    - Used a ConfigMap to store configuration data
