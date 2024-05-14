@@ -1,7 +1,3 @@
-## Summary
-
-This project demonstrates the deployment of a MongoDB replica set in a Kubernetes cluster, incorporating persistent storage, ConfigMaps, and Secrets. The setup ensures that MongoDB pods maintain data consistency and high availability.
-
 ### Week 8: Setting Up MongoDB with Persistent Storage
 
 1. Created a PV to allocate storage:
